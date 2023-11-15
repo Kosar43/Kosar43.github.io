@@ -42,4 +42,4 @@ if name == "main":
     atexit.register(run_on_load)
 
     # Öffne die Webseite
-    os.system("start fehler.html")
+    os.system("start index.html")
